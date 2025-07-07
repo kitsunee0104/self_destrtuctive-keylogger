@@ -1,4 +1,4 @@
-# 🔐 ESP32 Self-Destructive Keylogger (Patent Project)
+# 🔐 ESP32 Self-Destructive Keylogger 
 
 A hardware-based keylogger designed using the ESP32 microcontroller for ethical red team penetration testing. This project simulates real-world adversarial tactics, including stealth data exfiltration and forensic evasion via self-destruction.
 
