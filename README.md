@@ -37,13 +37,7 @@ This patent-worthy invention functions as a covert USB device capable of:
 - **Power Source**: 5V from USB
 - **Self-Destruct Module**: Step-up transformer circuit (up to 100V)
 - **Firmware**: Python, Bash, FreeRTOS
----
-
-## 👥 Authors
-
-- **Viyanka Kamble** (`kitsune0104`)
-- **Arindom Barman**
-
+  
 ---
 
 ## 🏷️ Tags
