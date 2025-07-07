@@ -37,38 +37,12 @@ This patent-worthy invention functions as a covert USB device capable of:
 - **Power Source**: 5V from USB
 - **Self-Destruct Module**: Step-up transformer circuit (up to 100V)
 - **Firmware**: Python, Bash, FreeRTOS
-
----
-
-## 🧪 Testing & Usage
-
-- Tested on Windows 10/11 as host system
-- Forensic detection simulated via tools like USBlyzer, USBPcap
-- Device disguised in standard flash drive casing for stealth
-- Remote update and wipe capability over TOR
-
----
-
-## 🛡️ Ethics & Intent
-
-> This project is intended **strictly for academic and cybersecurity research**.  
-> It is **not** to be used for malicious purposes, spying, or unauthorized surveillance.
-
----
-
-## 📎 Documentation
-
-📄 [Patent Disclosure Document (DOCX)](./patentfinal.docx)
-
 ---
 
 ## 👥 Authors
 
 - **Viyanka Kamble** (`kitsune0104`)
 - **Arindom Barman**
-
-Students, School of Computer Science and Engineering,  
-Lovely Professional University, Punjab, India
 
 ---
 
